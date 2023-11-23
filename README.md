@@ -9,9 +9,14 @@ _First thing first_ :wave: :wave:, I want to give my gratitude to Mr. Rhesa and 
 -  **Database Engine**: MySQL
 -  **IDE**: Visual Studio Code
 
+## Preparation
+Create a database name : **todolist_db** 
 
+## Running the website locally
+* On Backend: <code>nodemon index</code>
+* On Frontend: <code>npm start</code>
 
-## Task accomplishments:
+## Task accomplishments
 
 ### _Create:_
 
